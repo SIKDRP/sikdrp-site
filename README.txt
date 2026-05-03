@@ -13,7 +13,7 @@ How to use:
 7. Click Save.
 8. Your free site will go live at:
 
-https://YOURUSERNAME.github.io/sikdrp-site/
+https://SIKDRP.github.io/sikdrp-site/
 
 Edit your links:
 
